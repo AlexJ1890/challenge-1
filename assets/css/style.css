@@ -41,12 +41,12 @@ body {
     display: inline-block;
     margin-left: 25px;
 }
-
+/* link font color */
 a {
     color: #ffffff;
     text-decoration: none;
 }
-
+/* paragraph font size */
 p {
     font-size: 16px;
 }
@@ -59,7 +59,7 @@ p {
     background-size: cover;
     background-position: center;
 }
-
+/* Moves images in main section left and right */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -86,7 +86,7 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
+/* font color and bottom margin for right side bar */
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
@@ -101,7 +101,7 @@ p {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
+/* font alignment and margin for right side bar headers */
 .benefit-lead h3 {
     margin-bottom: 10px;
     text-align: center;
